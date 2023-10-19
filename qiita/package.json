@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "express": "^4.18.2",
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "eslint": "^8.51.0",
+    "eslint-plugin-react": "^7.33.2"
+  },
+  "name": "react_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "babel-node server/server.js"
+  },
+  "repository": "https://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@github.com/SnyUmd/react_test",
+  "author": "shinya.umeda <shinya.umeda@sincerity-trust.com>",
+  "license": "MIT"
+}
